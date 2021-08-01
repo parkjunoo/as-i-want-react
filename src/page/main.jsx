@@ -12,6 +12,8 @@ const main = () => {
     <div>
       <div>TodoList</div>
       <Button>안뇽</Button>
+      <Button>안뇽</Button>
+      <Button>안뇽</Button>
     </div>
   );
 };
